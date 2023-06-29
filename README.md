@@ -1,4 +1,4 @@
-# Counterfeit-Medicines-Sales-Prediction
+# Counterfeit-Medicines-Sales-Prediction ML project
 
 Counterfeit medicine are fake medicines which are either contaminated or contain the wrong or
 no active ingredient. They could have the right active ingredient but at the wrong dose.
